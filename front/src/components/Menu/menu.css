@@ -1,0 +1,16 @@
+nav ul{
+    display: flex;
+    gap: 200px;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+.nav-link{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial;
+    text-decoration: none;
+}

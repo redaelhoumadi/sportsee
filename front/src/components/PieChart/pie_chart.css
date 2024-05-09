@@ -1,0 +1,39 @@
+.radial-relative{
+    position: relative;
+}
+
+.today-performance{
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.scorecentage{
+    color: #282D30;
+    font-family: 'Roboto';
+    font-size: 26px;
+    font-weight: 700;
+    display: block;
+}
+
+.scorelebel{
+    color: #74798C;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+}
+
+.score-legend{
+    position: absolute;
+    top: 0;
+    left: 10%;
+    top: 10%;
+    color: #20253A;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    margin: 0;
+}

@@ -1,0 +1,36 @@
+.sidebar{
+    position: fixed;
+    width: 115px;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    bottom: 0;
+    top: 0;
+}
+
+.sidebar-menu{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.copyright-contnair{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.copyright{
+    display: block;
+    width: 138px;
+    color: #fff;
+    font-size: 0.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}

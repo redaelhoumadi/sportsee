@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+}
+
+.welcome{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+    flex-direction: column;
+    gap: 70px;
+}
+
+.users{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+
+.users a{
+    color: #000;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #ff0101;
+    padding: 10px 60px;
+    border-radius: 50px;
+}

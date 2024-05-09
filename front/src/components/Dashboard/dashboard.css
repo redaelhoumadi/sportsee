@@ -1,0 +1,17 @@
+.dashboard{
+    width: 100%;
+    padding: 3%;
+    padding-left: 9rem;
+}
+
+.performance{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto';
+}

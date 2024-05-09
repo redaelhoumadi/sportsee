@@ -1,0 +1,63 @@
+.right-side-content{
+    display: flex;
+    align-items: center;
+    padding: 32px;
+    background-color: #FBFBFB;
+    gap: 25px;
+}
+
+.icon-right-side{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.aside-data{
+    margin: 0;
+    padding: 0;
+}
+
+.aside-data li {
+    list-style: none;
+}
+
+.aside-data-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #282D30;
+
+}
+
+.aside-data-sub-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #74798C;
+}
+
+.calorieCount{
+    background-color: #ff00001a;
+}
+
+.proteinCount{
+    background-color: #4AB8FF1A;
+}
+
+.carbohydrateCount{
+    background-color: #f9ce2336;
+}
+
+.lipidCount{
+    background-color: #FD51811A;
+}
+
+.keydata_right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 39px;
+}

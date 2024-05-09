@@ -1,0 +1,14 @@
+.sessions{
+    width: 258px;
+    height: 263px;
+    background-color: #FF0000;
+    border-radius: 10px;
+}
+
+.session-label{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 15px;
+    color: #ffffff8a;
+    margin: 30px;
+}

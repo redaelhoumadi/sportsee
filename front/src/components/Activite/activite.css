@@ -1,0 +1,15 @@
+.activite-contnair{
+    background-color: #FBFBFB;
+    padding: 25px;
+    border-radius: 10px;
+    width: auto;
+    height: 270px;
+}
+
+.activite-title{
+    color: #20253A;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial;
+    margin: 0;
+}
