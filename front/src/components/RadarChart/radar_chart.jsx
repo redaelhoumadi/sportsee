@@ -6,6 +6,10 @@ function Radarchart({performance}) {
   // Extraction des données de performance et de leur type depuis les propriétés
   let performanceData = performance.data.data; // Les données de performance
   let performanceKind = performance.data.kind; // Le type de chaque performance
+  
+  //maping MOCK DATA
+  // let performanceData = performance.data; // Les données de performance
+  // let performanceKind = performance.kind; // Le type de chaque performance
 
   // Création d'un nouveau tableau avec les types de performances remplacés par leur nom correspondant
   let updatedPerformanceData = performanceData.map(item => {
